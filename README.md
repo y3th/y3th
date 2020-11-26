@@ -1,3 +1,3 @@
-# i try put '
+# I try to put a '
 
-it gives bug
+It gives a bug when I do so.
