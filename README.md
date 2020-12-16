@@ -1,3 +1,3 @@
-# I try to put a '
+# I attempt to input the apostrophe character.
 
-It gives a bug when I do so.
+It proceeds to throw an error when I do as such.
