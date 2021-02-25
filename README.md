@@ -1,3 +1,1 @@
-# I attempt to input the apostrophe character using my keyboard which is plugged into my personal computer.
-
-It proceeds to throw a fatal error when I do as such.
+![](https://www.death-clock.org/makeimg.php?dod=party%20rockin&yod=in%20the%20house&aod=tonight)
