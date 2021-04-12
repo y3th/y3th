@@ -1,1 +1,1 @@
-![](https://www.death-clock.org/makeimg.php?dod=party%20rock&yod=is%20in%20the%20house&aod=tonight)
+![](https://media.discordapp.net/attachments/826921889595129896/831305666546499665/unknown.png)
